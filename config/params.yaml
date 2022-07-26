@@ -1,4 +1,5 @@
 EVALUATOR:
   DATASET: 'kitti'     #kitti = KITTI dataset; nuscene = nuScenes dataset; carla = true CARLA data
   ABS_FILEPATH: ''
-  VERSION: 1.0
+  VERSION: 'v1.0-mini'
+  DATAROOT: '/data/sets/nuscenes'
